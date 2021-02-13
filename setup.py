@@ -29,11 +29,11 @@ REQUIREMENTS = [
     "marshmallow>=2.17.0,<3",
     "marshmallow_polyfield>=3.2,<4",
     "networkx>=2.2",
-    "numpy>=1.13",
+    "numpy>=1.13,<1.19",
     "ply>=3.10",
     "psutil>=5",
     "scipy>=1.0",
-    "sympy>=1.3",
+    "sympy>=1.3,<1.7",
     "matplotlib>=2.1",
     "pillow>=4.2.1"
 ]
